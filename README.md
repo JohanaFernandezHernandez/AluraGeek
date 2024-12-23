@@ -16,7 +16,6 @@ Este proyecto es una aplicación web para administrar productos. Permite listar,
 - **Fetch API**: Para realizar solicitudes HTTP a la API.
 - **SweetAlert2**: Ventanas emergentes para confirmaciones y alertas.
 
-```
 
 ##  🖥 Instalación y Uso
 
