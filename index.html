@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <title>Vite App</title>
+  </head>
+  <body>
+    <header class="header">
+      <nav class="navbar">AluraGeek</nav>
+    </header>
+
+    <main class="container">
+      <div class="container__productos">
+        <h2 class="title">Mis Productos</h2>
+        <ul class="container__card" >
+        </ul>
+      </div>
+      <div class="container__formulario">
+        <h2 class="title">Agregar Producto</h2>
+        <form class="form">
+          <input name="nombre" type="text"  placeholder="Nombre del Producto" required  data-nombre/>
+          <input name="precio" type="number" placeholder="Precio del Producto" required data-precio/>
+          <input name="imagen" type="text" placeholder="Imagen del producto" required data-imagen/>
+          <div class="form__button">
+            <button class="button__enviar" type="submit">Enviar</button>
+            <button class="button__limpiar" onclick="limpiarFormulario()" >Limpiar</button>
+
+          </div>
+          
+        </form>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <p>&copy; 2024 AluraGeek.</p>
+      <p>Desarrollado por Johana Fernandez</p>
+      <p>Alura Latam 2024</p>
+    </footer>
+    <script type="module" src="/main.js"></script>
+    <script type="module" src="/CrearProducto.js" ></script>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+{
+  "tareas": [
+    {
+      "id": "945c",
+      "nombre": "Xiaomi verde",
+      "precio": "590",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HyZLFDIAnLfDOjgB0OrkXt3GrvC7QcELbQ&s"
+    },
+    {
+      "id": "08b3",
+      "nombre": "pc nuevo",
+      "precio": "890",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0GzxrU-y5LqrUZkUIcsrHyin0OoHlvJKew&s"
+    },
+    {
+      "id": "7392",
+      "nombre": "Portatil",
+      "precio": "900",
+      "imagen": "https://s.libertaddigital.com/2023/05/23/portatil-para-teletrabajar-asus-vivobook-s14-oled-k3402za-km079w.jpg"
+    },
+    {
+      "id": "3755",
+      "nombre": "Xiaomi",
+      "precio": "450",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixZqczJLzxWtI-BYuflCPSDgKq2bnBs2LRQ&s"
+    }
+  ]
+}
