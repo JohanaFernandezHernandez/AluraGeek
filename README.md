@@ -16,21 +16,6 @@ Este proyecto es una aplicación web para administrar productos. Permite listar,
 - **Fetch API**: Para realizar solicitudes HTTP a la API.
 - **SweetAlert2**: Ventanas emergentes para confirmaciones y alertas.
 
-## 📁 Estructura del Proyecto
-
-```plaintext
-/
-├── public/
-│   ├── Vector.png      # Icono para eliminar productos
-├── src/
-│   ├── main.js         # Función principal para listar productos
-│   ├── conexionApi.js  # Conexión con la API REST
-│   ├── CrearProducto.js# Función para agregar productos
-│   ├── style.css       # Estilos de la aplicación
-│   ├── index.html      # Página principal
-├── README.md           # Este archivo
-├── package.json        # Información del proyecto y dependencias
-
 ```
 
 ##  🖥 Instalación y Uso
